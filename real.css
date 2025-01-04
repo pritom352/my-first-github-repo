@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c9c7bd;
+    color: #333;
+    margin: 0px;
+    padding: 0;
+}
+
+header h2 {
+    margin: 0;
+    color: aliceblue;
+    padding: 18px;
+}
+
+header {
+    background-color: rgb(136, 189, 171);
+    font-style: italic;
+    text-align: center;
+    border: 9px solid rgb(110, 107, 110);
+
+}
+
+main {
+    width: 80%;
+    margin: 20px;
+}
+
+.introduction, .ingredients, .instructions {
+    background-color:#e9e2e2;
+    margin-bottom: 20px;
+    padding: 15px;
+
+    
+    border-radius: 8px;
+}
+
+.ingredients h3, .instructions h3 {
+    color: rgb(210, 88, 159);
+}
+
+ul, ol {
+    margin-left: 15px;
+}
+
+footer {
+    background-color:rgb(136, 189, 171);
+    margin-bottom: 20px;
+    padding: 6px 0;
+    color:aliceblue ;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    
+}
